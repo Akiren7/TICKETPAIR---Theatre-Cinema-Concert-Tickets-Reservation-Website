@@ -7,7 +7,9 @@ The platform bridges the gap between event organizers and attendees by providing
 <img width="1898" height="937" alt="Homepage" src="Screenshots/Ekran görüntüsü 2026-03-17 222035.png" />
 
 KEY FEATURES
+
 👤 User Experience
+
 Live Search Engine: Real-time event discovery using JavaScript Fetch API, allowing users to see instant results without page reloads.
 
 <img width="1880" height="938" alt="Live Search" src="Screenshots/Ekran görüntüsü 2026-03-17 222134.png" />
@@ -25,6 +27,7 @@ Personal Profile Management: A centered, responsive dashboard for managing perso
 <img width="1906" height="940" alt="Profile Management" src="Screenshots/Ekran görüntüsü 2026-03-17 222107.png" />
 
 🛠️ Admin Capabilities
+
 Event Management (CRUD): Full control over event listings, including creating, editing, and deleting cinema or concert entries.
 
 <img width="1907" height="934" alt="Event Management" src="Screenshots/Ekran görüntüsü 2026-03-17 222146.png" />
