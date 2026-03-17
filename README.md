@@ -67,9 +67,13 @@ Press F5 to build and run the project.
 This project was successfully completed by a team of 5 passionate developers as part of the Computer Science and Information Technology curriculum.
 
 Barış Bağbekleyen - Team Leader
+
 İrem Balkuv
+
 Mert Eser
+
 Ege Arıcan
+
 Bahadır Duran
 
 
